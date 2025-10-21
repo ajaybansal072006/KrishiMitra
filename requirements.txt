@@ -1,0 +1,9 @@
+tensorflow
+numpy
+pandas
+opencv-python
+streamlit
+gtts
+speechrecognition
+transformers
+torch  # required by transformers
