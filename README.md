@@ -6,7 +6,8 @@ A multimodal AI project for crop disease detection using image and voice/text in
 
 ### 🧠 About
 KrishiMitra helps farmers detect crop diseases using leaf images or audio/text symptom descriptions.  
-It provides simple treatment advice in both text and audio form, making it accessible and useful for Indian farmers.
+It provides simple treatment advice in text form.
+It is easily accessible and useful for Indian farmers.
 
 ---
 
