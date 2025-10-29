@@ -31,3 +31,6 @@ It is easily accessible and useful for Indian farmers.
 ```bash
 pip install -r requirements.txt
 streamlit run app.py
+
+###😊 open directly
+https://krishimitra-bmdhcsubhgi6g2fu8wxcrj.streamlit.app/
