@@ -1,0 +1,7 @@
+tensorflow==2.15.0
+transformers==4.45.0
+torch==2.4.0
+openai-whisper
+streamlit
+numpy
+pillow
