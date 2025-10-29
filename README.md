@@ -30,4 +30,4 @@ It is easily accessible and useful for Indian farmers.
 ### 🚀 How to Run
 ```bash
 pip install -r requirements.txt
-streamlit run src/app.py
+streamlit run app.py
